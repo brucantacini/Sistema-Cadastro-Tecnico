@@ -1,0 +1,9 @@
+[
+    {
+        "ID": 2,
+        "CLIENTE_NOME": "Amanda",
+        "DESCRICAO_PROBLEMA": "Problema no modem ",
+        "STATUS": "ABERTO",
+        "RESPONSAVEL_TECNICO": "Lucas Lima"
+    }
+]
